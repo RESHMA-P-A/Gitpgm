@@ -3,5 +3,11 @@
 a+b
 
 
+//multiply
+a*b
+
+//div
+
+
 
 
