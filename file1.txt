@@ -1,6 +1,18 @@
 //add
 
 a+b
+//subtract
+
+
+a-b
+
+//multipty
+a*b
+//div
+a/b
+
+mod
+a%b
 
 
 //multiply
